@@ -1,2 +1,2 @@
 # PCB_Designs
-This repository contains all PCBS designed by me
+This repository contains some PCB examples designed by me with Autodesk EAGLE.
